@@ -70,7 +70,7 @@ private:
 
     void printHelp()
     {
-        std::cout << "Usage: AudioFileProcessor --input=<input_file> --output=<output_file> --vst3=<vst3_path>" << std::endl;
+        std::cout << "Usage: vstility --input=<input_file> --output=<output_file> --vst3=<vst3_path>" << std::endl;
         std::cout << "Options:" << std::endl;
         std::cout << "  --input     <file>   Input audio file path" << std::endl;
         std::cout << "  --output    <file>   Output audio file path" << std::endl;
